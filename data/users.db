@@ -1,0 +1,32 @@
+{
+  "usu4": {
+    "password_hash": "$2b$12$4rLtX6rQMKvdtRQlZHU33e.cyTh7MwyEo.OPX7aroGe1Ibb03FJLq",
+    "phone_number": "123456789",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvVFVhz/3pvv8gEuMvpc8\nSJwLImbSLhEcNemAAS2fIsD3wuWwjVEcB9tLn4amHHReWxSNqaGLjd1XZtpuWcx8\nuCEnAuM6mAGIV6knQUcqN9Zax6C0vHRHZz+lwp4oqZtPuz01jFXeypvZ0rkH7cKN\n4KIw85UBT/vA8KvZ4MAijHZBEDZQX/lQuQ1irLLbWRSEIdH/o7F4NBbU6gtRu1Vu\njS+0AIL9Jd5iQ81iMDNqBZuVQ4Densl28SXRoGahSfpdlj9zUOvifnCS3h86RVSm\nSP/y+5zSA5R3C0OK5ZralpVJ5Z6lAgTaN+vEntuLx3QXWsb6MWo8GN6fp2zDpsPl\niQIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "usu1": {
+    "password_hash": "$2b$12$cuOk2075Wud/ELHjQ3/ene4zqTbgE3R.68auLkSlsxRJazVoX1aXK",
+    "phone_number": "123456789",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo6b83DkdGVFiV8z9wAHi\nCnirzKoz9eoomrC0myBNXJfG32mafxapPqU1BvainqFxyUyKiMM3wd6lNVGhNUoh\nuxSgAD7PxX+ECZeFCCBY0x4QbwIeSn4HluIAN8D9vN/FmSkCp+RrBIIjZPDs6X45\nHl1vOTXDD+J8f/MIrf6Bnz53IK1IJKrF++CtxgF8OBp/Mfb8tIfeuuaUFJLuFTmU\nJmbi9zMImrmSyXw7fPYuKSIjYGhhJl57hDWpTrqyb9pRhYapESAT8uYYTVzm5JZI\nZcxO9bb5I0RguAGAQm3UG2wi6l+7z3UsUkwAqQ4+8hqwyIDBuiAtPpoOdQuNkPvP\njQIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "usu5": {
+    "password_hash": "$2b$12$34rKEST/WMdr35.ZimDWx.4ib3CS9L9llR8VDVVyaDeoniAgsUN2a",
+    "phone_number": "123456789",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6nT2R8Bwql8ZBHjMyIML\nC0b+XS5obn8Qg8SXHHNev0t7Xhybzk46GHa0kruJxTB1wD2agtet3bDakm9yh7QJ\n+9ut+NM2kJXgkdl1aZGrlG7wWlXx6TGxoPftSSIE2OutPn/j8bPOVnV8Z03yreKj\nwUd4bSMhc0j/YgVHPhzV+bhzeUik8gffmvly25yA2seJLgNPd4FeylIfKCnLklAY\nklzdo76xz9MZrCvZSEopQzjSnV6yB2bYG7ag+RbAV3KKEJdCWwanOicIjQKOSWEa\nB6n8J9O78A8sbJPSh+x04CYJnvnqGiCpDOaonRxTsTeBGKRd7DtoF36oCcUMJeJj\nOwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "usu6": {
+    "password_hash": "$2b$12$7PTME6Ls1HorLxNJgAYT9.904EdxnxZQejK3dgwvxII3wahorIaOe",
+    "phone_number": "123456789",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArpVYSKXM1Pb//mZzWj4z\nCnY0338H7QmtyL1ea4/tg+0t6IBlIzrvEWV/pRVqes/1V0FPCJq2P9zma0En6d2x\niaAEBpBUAI4l0dPqrsjdTTeex1W0Dl8D7+X54re8nKlGkmQkBnABixXNFZb98tco\n8/59rCo+L+XBhDUsQlcwMwG/lQLRe3WE65mJc22LviU6Ydl0Som7V3ac2+Hv5Eid\n7fO6SRHPofegJp66jDSKCZ1sYxPmiohMwhV1SwH6Ml7IJ7/0aDwkE5asoRBq+REo\nPavY+43KL0dFXwYgtMbCFcpggTJOhqj9uUA4W3HhTN5uKKz7GRrXZ92CbE7KpBII\nWwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "usu7": {
+    "password_hash": "$2b$12$fgeltszQyPNUMSsvuE/PhOlR6OXHcHMNPV1OLBO4FPUjoTfv/13Za",
+    "phone_number": "123456789",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqcmwN1+Z3wzKYoY3S1vo\nfkbZvf9DatOySK//4gT3t01ssyDbgOEbCRKe/Ipx78CgVraZAR2iZYtsbabsCdgA\nS1uh+06ocpFyevkzGm/bwNZHhAwFxPCnTmnEqQ3XUmVPYKuX+S9UYH5/LtiCKbyL\nGai851ncb88IAWjz262tBDZAh6YcB2QVlj0J76nLVdfvXJ1gSIF7T7CWNAy4frUq\nAZiWSnWxlW0XvH4T+nc66+ZMiGEJN5hLwqKEePLQcvUrcOJWjFoTDjPj9xvVm9Z2\nzdJfB3HZtKVgYSjmuDrNZXnjrXXJrjNruAxQFU6VhbeljjaRZxbRjrSgiyQuBq8n\nMwIDAQAB\n-----END PUBLIC KEY-----\n"
+  },
+  "usu8": {
+    "password_hash": "$2b$12$EYdZCAsItjKClTcALu8J6uL5Im0o6VPJ4k2At1z9Jz76dSjklZeuS",
+    "phone_number": "123456789",
+    "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0NlFPJesMfaY9WwXU6OK\nFfu0ol3X1H6ymnabRXYuC9CjXo84hZyz0ffI06Fu2OMkLAL3Ca1UAM9TFxIrFplw\nDjFcSUU3UsLYIskK9puzBotq3BZ07Dke8angTN8bqkczVs15UGUhbHP84hjKrOt2\nc2t8j3VcSNi8uRiNVpYW0WdB2p8mv3zF4SoNhuLFfu/NZGKyF+fW0lsHz04HEEfl\nTNnalFYiySv797UmxCmXGwrhO6e019S2pN5eWf9zobAC7/34ySTN74qj35N2nkvR\n0Vi93fN+vC4qb3bXsMET0tHaObJA8cI4sXObN3ern8lLEypUjFMxipkyX7rgt3vK\nKwIDAQAB\n-----END PUBLIC KEY-----\n"
+  }
+}

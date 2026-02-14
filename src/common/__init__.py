@@ -1,0 +1,1 @@
+"""utilidades comunes: constantes y variables"""
