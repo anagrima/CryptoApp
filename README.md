@@ -97,5 +97,4 @@ CryptoApp/
 
 
 ## autores
-Ana Grima Vázquez de Prada
-Blanca Peña Moñino
+Ana Grima Vázquez de Prada y Blanca Peña Moñino
