@@ -96,5 +96,5 @@ CryptoApp/
         |--test_validators.py
 
 
-## autores
+## autoras
 Ana Grima Vázquez de Prada y Blanca Peña Moñino
