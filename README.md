@@ -24,7 +24,7 @@ set ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" && python -m client.main
 $env:ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" ; python -m client.main
 
 
-# ejecucion tests
+# Ejecucion tests
 
 ## Linux
 ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" python -m pytest -q
