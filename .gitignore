@@ -1,0 +1,27 @@
+# entorno virtual
+.venv/
+
+# entornos secretos
+.env
+.env.*
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# tests
+pytest_cache/
+.coverage
+htmlcov/
+
+# datos locales
+data/keystore/
+data/aes_tickets.key
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
