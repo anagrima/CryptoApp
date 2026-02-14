@@ -1,7 +1,7 @@
 ## Autoras
 Ana Grima Vázquez de Prada y Blanca Peña Moñino
 
-## instalacion en Visual Studio Code
+# Instalacion en Visual Studio Code
 py -m venv .venv
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process -Force
 .\.venv\Scripts\Activate.ps1
@@ -10,25 +10,25 @@ python -m pip install --upgrade pip
 python -m pip install -r requirements.txt
 
 
-## ejecucion app tickets
+# Ejecucion app tickets
 
-# Linux
+## Linux
 ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" python -m client.main
 
-# Windows CMD
+## Windows CMD
 set ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" && python -m client.main
 
-# PowerShell
+## PowerShell
 $env:ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" ; python -m client.main
 
 
-## ejecucion tests
+# ejecucion tests
 
-# Linux
+## Linux
 ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" python -m pytest -q
 
-# Windows CMD
+## Windows CMD
 set ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" && python -m pytest -q
 
-# PowerShell
+## PowerShell
 $env:ISSUER_KEY_PASSWORD="UnaClaveParaPruebas123" ; python -m pytest -q
